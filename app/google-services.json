@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1011955896814",
+    "project_id": "e-governance-app",
+    "storage_bucket": "e-governance-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011955896814:android:dc3e734c1b1710e2b3feff",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011955896814-157t802pvgko24akjbhcvjkjqgeav2q6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.login",
+            "certificate_hash": "2d98993a8209416204d64b6f09cd32b5ab9ae030"
+          }
+        },
+        {
+          "client_id": "1011955896814-pmo8o3b8vmjsm4f7fgmo5dusnv2a7nfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmta1RBENh-PDlbK1Jr6tmCoQOTNLVrmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011955896814-mlgq5pltkcnlq33uo16qckl4hld212n7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011955896814:android:f451dbf0945f8f01b3feff",
+        "android_client_info": {
+          "package_name": "com.example.talathiattendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011955896814-pmo8o3b8vmjsm4f7fgmo5dusnv2a7nfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmta1RBENh-PDlbK1Jr6tmCoQOTNLVrmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011955896814-mlgq5pltkcnlq33uo16qckl4hld212n7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
